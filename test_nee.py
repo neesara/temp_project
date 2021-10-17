@@ -18,3 +18,6 @@ def test_swapcase():
 
 def test_swapcase2():
     assert "ABC".swapcase() == "abc"
+
+def test_multi():
+    assert 4*2 == 8
