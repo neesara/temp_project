@@ -21,3 +21,6 @@ def test_swapcase2():
 
 def test_multi():
     assert 4*2 == 8
+
+def test_amm():
+    assert "amm" == "amm"
